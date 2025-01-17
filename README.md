@@ -3,7 +3,7 @@
 # Overview:
 TikTok Account Downloader is a desktop application designed to download all videos of a TikTok user's profile.
 
-# ⚠️ CURENTLY THE SCRIPT IS ON BETA AND ONLY WORK ON WINDOWS ⚠️
+# ⚠️ CURRENTLY THE SCRIPT IS IN BETA AND ONLY WORKS ON WINDOWS ⚠️
 
 # Features:
 - 🌍 Language Support: Switch between English and French.
