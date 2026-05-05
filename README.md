@@ -6,6 +6,7 @@ TikTok Account Downloader is a CLI application for downloading TikTok accounts.
 # dependencies
 
 httpx :
+
 ```
 pip install httpx[http2]
 ```
