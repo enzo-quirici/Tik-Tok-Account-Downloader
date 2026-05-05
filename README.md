@@ -3,7 +3,7 @@
 # Overview:
 TikTok Account Downloader is a CLI application for downloading TikTok accounts.
 
-# dependencies
+# dependencies :
 
 httpx :
 
