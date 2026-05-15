@@ -15,4 +15,4 @@ pip install httpx[http2]
 Simply download and run the script, enter the username, and wait for the magic to happen.
 Report any errors in the issues.
 
-All credit for thw code to Objective Moon MC
+All credit for the code to Objective Moon MC
